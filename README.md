@@ -3,7 +3,7 @@
 Add this step to jobs in your GitHub workflow file(s) to secure your runner:
 ```yaml
   - name: Setup Bolt
-    uses: koalalab-inc/bolt@b561d5ffcf8b7dcfc3b9907958bd048ec1eafd3b
+    uses: koalalab-inc/bolt@cf7c293908da26288b517c26133dd70b54828e4f
 ```
 
 ## Transparent Egress Gateway for GitHub hosted runners

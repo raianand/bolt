@@ -29,7 +29,7 @@ jobs:
 
     steps:
       - name: Setup Bolt
-        uses: koalalab-inc/bolt@b561d5ffcf8b7dcfc3b9907958bd048ec1eafd3b # koalalab-inc/bolt@b561d5ffcf8b7dcfc3b9907958bd048ec1eafd3b
+        uses: koalalab-inc/bolt@cf7c293908da26288b517c26133dd70b54828e4f # koalalab-inc/bolt@cf7c293908da26288b517c26133dd70b54828e4f
       - name: Checkout
         id: checkout
         uses: actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633 # actions/checkout@v4 | 1567,v4.1.2
