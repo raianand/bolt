@@ -26901,7 +26901,7 @@ async function generateSummary() {
     .addRaw(
       `
 > [!CAUTION]
-> 🚨🚨 You are at risk!! You are using and impostor commit of Bolt.
+> 🚨🚨 You are at risk!! You are using an impostor commit reference of Bolt. This commit is not there on parent repository.
 	`
     )
     .addRaw(
