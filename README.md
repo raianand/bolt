@@ -1,9 +1,12 @@
+> [!CAUTION]
+> Don't use this repo. It is a demonstration repo for impostor commits. The real repo is [here](https://www.github.com/koalalab-inc/bolt)
+
 ![Bolt](assets/imgs/bolt-header-dark.png)
 ## Secure GitHub actions with 1 line of code
 Add this step to jobs in your GitHub workflow file(s) to secure your runner:
 ```yaml
   - name: Setup Bolt
-    uses: koalalab-inc/bolt@cf7c293908da26288b517c26133dd70b54828e4f
+    uses: koalalab-inc/bolt@baf004697ddb3e1f4497ce60ad814b21e63e568c
 ```
 
 ## Transparent Egress Gateway for GitHub hosted runners
