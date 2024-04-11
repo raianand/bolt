@@ -220,6 +220,12 @@ async function generateSummary() {
     .addHeading('⚡ Egress Report - powered by Bolt', 2)
     .addRaw(
       `
+![CAUTION]
+🚨🚨 You are at risk!! You are using and impostor commit of Bolt.
+	`
+    )
+    .addRaw(
+      `
 <details open>
   <summary>
 ${configHeaderString}
